@@ -14,6 +14,8 @@
 <desc id="10">Add Packet Fly
 <desc id="10">Add Mineland Fly
 <desc id="10">Add Spider
+<desc id="10">Add AutoSoup
+<desc id="10">Add AutoPotion
 <desc id="10">Add DVDSimulator
 <desc id="10">Add ElytraFly
 <desc id="10">Add SafeWalk
@@ -26,6 +28,7 @@
 <desc id="10">Add Jello AltManager
 <desc id="10">Add Friend Command
 <desc id="10">Add Tomy OldHitting
+<desc id="10">Remove PacketFix
 <desc id="10">Performances improvements
 <desc id="10">Update to MC 1.16.4
 
